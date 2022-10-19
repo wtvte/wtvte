@@ -1,0 +1,9 @@
+asgiref==3.5.2
+Django==3.2.16
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.1
+Pillow==9.2.0
+PyJWT==2.1.0
+pytz==2022.4
+sqlparse==0.4.3
+typing_extensions==4.4.0.gitignore
